@@ -1,0 +1,27 @@
+.septa-transit {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  .septa-transit table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .septa-transit th {
+    font-weight: bold;
+    padding: 10px;
+    background-color: #333333;
+  }
+  
+  .septa-transit td {
+    padding: 10px;
+    border-bottom: 1px solid #aaaaaa;
+  }
+  
+  .departure-time {
+    font-weight: bold;
+    color: red;
+  }
+  
